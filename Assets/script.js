@@ -48,7 +48,6 @@ $(".container").append(row);
 });
 
 /* Color rows based on current time */
-
 function colorRow(time) {
 var planNow = moment(now, "H A");
 var planEntry = moment(time, "H A");
