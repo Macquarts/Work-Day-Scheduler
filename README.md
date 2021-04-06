@@ -19,8 +19,7 @@ When you scroll down you will be presented with time blocks for standard busines
 When you click into a time block you can enter an event and click on the save button for that time block to be saved in a local storage. When you refresh the. Page, the events are saved.
 
 ##### Deployed Page:
-
-
+https://macquarts.github.io/Work-Day-Scheduler/
 
 ###### Landing Page:
 ![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/75565115/113739249-2f245000-9732-11eb-9bbe-c1c21de022f1.gif)
