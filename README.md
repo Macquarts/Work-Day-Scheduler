@@ -1,7 +1,7 @@
 # Work-Day-Scheduler
 ## Project Requirement:
 
-This project require us to create a simple calendar application that allows the user to save events for each hour of the day.
+This project require us to create a simple calendar application that allows users to save events for each hour of the day.
 
 ### Name of the Contributors:
 
