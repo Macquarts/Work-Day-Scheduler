@@ -19,12 +19,12 @@ This project require us to create a simple calendar application that allows user
 
 #### Functionality
 
-This planner has been created to help users schedule events daily.
-When the planner is opened, the current day is  displayed.
-When you scroll down you will be presented with time blocks for standard business hours. 
-Each time block is color coded to indicate whether it is in the past, present or future. 
-When you click into a time block you can enter an event and click on the save button for that time block to be saved in a local storage. 
-When you refresh the page, the events are saved.
+- This planner has been created to help users schedule events daily.
+- When the planner is opened, the current day is  displayed.
+- When you scroll down you will be presented with time blocks for standard business hours. 
+- Each time block is color coded to indicate whether it is in the past, present or future. 
+- When you click into a time block you can enter an event and click on the save button for that time block to be saved in a local storage. 
+- When you refresh the page, the events are saved.
 
 
 
